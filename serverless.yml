@@ -1,4 +1,4 @@
-service: serverless-stack-api-devops
+service: serverless-stack-api
 
 # Create an optimized package for our functions
 package:
